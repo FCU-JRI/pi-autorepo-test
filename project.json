@@ -1,0 +1,12 @@
+{
+  "id": "pi-autorepo-test",
+  "name": "樹莓派自動建立測試",
+  "kind": "small",
+  "template": "blank",
+  "createdAt": "2026-11-14T17:13:57.337Z",
+  "gates": [
+    "mdr"
+  ],
+  "manual": {},
+  "signoffs": []
+}
